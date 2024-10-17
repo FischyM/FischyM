@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- PhD Candidate in Bioinformatics and Computational Biology at University of Minnesota
+- Interests include bringing computational methods to research areas biology like genetics and cancer immunology
+- 
 <!--
 **FischyM/FischyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
